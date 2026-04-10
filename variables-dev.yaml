@@ -4,3 +4,4 @@ login_password: ExpenseApp1
 DB_HOST: db-dev.dine4a3.store
 BACKEND_API_URL: backend.app-dev.dine4a3.store
 nexus_url: nexus.dine4a3.store:8081
+appVersion: "1.0"
